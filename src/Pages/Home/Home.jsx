@@ -1,7 +1,7 @@
-import { Navbar } from "../../components/Navbar/Navbar";
+import { Card } from "../../components/Cards/card";
 
 export default function Home(){
     return (
-        <Navbar></Navbar>
+        <Card />
     );
 }
