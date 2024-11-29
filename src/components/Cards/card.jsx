@@ -32,7 +32,7 @@ export function Card() {
                         </p>
                     </div>
                     <button className="next-button" onClick={handleNext}>
-                        {'>'}
+                        {'ok'}
                     </button>
                 </div>
                 <div className="timeline-navigation">
